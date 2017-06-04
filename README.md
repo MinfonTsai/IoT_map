@@ -1,6 +1,6 @@
-# realtime-geolocation-demo
+# IoT-geolocation
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/voronianski/realtime-geolocation-demo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 
 [![Map Preview](http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2012/10/Real-Time-Geolocation-Service-with-Node.jpg)](http://tympanus.net/codrops/2012/10/11/real-time-geolocation-service-with-node-js/)
 
